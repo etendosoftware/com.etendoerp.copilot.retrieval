@@ -1,0 +1,8 @@
+/**.bin
+/**.pickle
+# ignore in chroma.db dir non sqlite3 files
+chroma.db/*
+/.idea
+/.env
+/.vscode
+/test_repo/
